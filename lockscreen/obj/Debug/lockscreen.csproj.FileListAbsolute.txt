@@ -1,0 +1,16 @@
+D:\lockscreen\lockscreen\lockscreen\bin\Debug\lockscreen.exe
+D:\lockscreen\lockscreen\lockscreen\bin\Debug\lockscreen.pdb
+D:\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.csprojResolveAssemblyReference.cache
+D:\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.Properties.Resources.resources
+D:\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.csproj.GenerateResource.Cache
+D:\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.exe
+D:\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.pdb
+D:\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.Form1.resources
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.exe
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.pdb
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\bin\Debug\lockscreen.exe
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\bin\Debug\lockscreen.pdb
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.Form1.resources
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.Properties.Resources.resources
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.csproj.GenerateResource.Cache
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.csprojResolveAssemblyReference.cache
