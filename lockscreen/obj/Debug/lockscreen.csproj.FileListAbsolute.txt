@@ -10,7 +10,7 @@ F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\locksc
 F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.pdb
 F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\bin\Debug\lockscreen.exe
 F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\bin\Debug\lockscreen.pdb
-F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.Form1.resources
 F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.Properties.Resources.resources
 F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.csproj.GenerateResource.Cache
 F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.csprojResolveAssemblyReference.cache
+F:\Users\acer\Documents\visual studio 2013\Projects\lockscreen\lockscreen\lockscreen\obj\Debug\lockscreen.MainForm.resources
